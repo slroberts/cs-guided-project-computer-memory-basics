@@ -23,4 +23,6 @@ if there is a mathematical approach that you can take.*
 """
 def to_lower_case(string):
     # Your code here
-
+    # think about the python ord() method
+    return
+print()
